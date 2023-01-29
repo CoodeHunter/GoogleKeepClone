@@ -78,3 +78,6 @@ if (notes) { notes.forEach((note) => { addNewNotes(note) }) }
 
 
 addButton.addEventListener('click', () => addNewNotes());
+
+// Alert Message 
+alert(`hello world`);
